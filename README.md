@@ -1,6 +1,7 @@
 # xauhoBblE-KHN7N хайповые книги
 # скачал, поставь звездочку!
-
+Ставим тут: https://github.com/sammorozov/xauhoBblE-KHN7N
+Подписываемся сюда: https://t.me/from_the_teapot_to_the_investor
 
 Список книг:
 
