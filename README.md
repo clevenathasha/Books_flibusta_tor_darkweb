@@ -22,21 +22,21 @@
 | Код. Тайный язык информатики| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Prog  |
 | Теория каст и ролей| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   | pop   |
 | Понедельник начинается в субботу| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Lyr  |
-| Стив Джобс| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Bio  |
-| Мартин Иден| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Lyr  |
+| Стив Джобс| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Bio  |
+| Мартин Иден| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Lyr  |
 | Старик и море| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Lyr  |
-| Грокаем глубокое обучение| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  ML  |
-| Грокаем машинное обучение| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  DL  |
-| Цифровая схемотехника и архитектура компьютера| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  dev  |
-| Как изобрести всё. Создай цивилизацию с нуля| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  all  |
-| Бонни и Клайд.| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Lyr  |
-| Манипуляции Непряхин| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  pop  |
-| К востоку от Эдема| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Lyr  |
-| Учебник Логики Челпанов| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  mindset  |
-| Маленький принц.| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Lyr  |
-| Хакинг IoT  | [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Sec  |
-|Глубокое обучение. Погружение в мир нейронных сетей.|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))|DL|
-|Грокаем алгоритмы|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))|Algo|
+| Грокаем глубокое обучение| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  ML  |
+| Грокаем машинное обучение| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  DL  |
+| Цифровая схемотехника и архитектура компьютера| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  dev  |
+| Как изобрести всё. Создай цивилизацию с нуля| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  all  |
+| Бонни и Клайд.| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Lyr  |
+| Манипуляции Непряхин| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  pop  |
+| К востоку от Эдема| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Lyr  |
+| Учебник Логики Челпанов| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  mindset  |
+| Маленький принц.| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Lyr  |
+| Хакинг IoT  | [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Sec  |
+|Глубокое обучение. Погружение в мир нейронных сетей.|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|DL|
+|Грокаем алгоритмы|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Algo|
 
 to be continued...
 
