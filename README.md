@@ -36,6 +36,7 @@
 | Маленький принц.| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Lyr  |
 | Хакинг IoT  | [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))   |  Sec  |
 |Глубокое обучение. Погружение в мир нейронных сетей.|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))|DL|
+|Грокаем алгоритмы|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy))|Algo|
 
 to be continued...
 
