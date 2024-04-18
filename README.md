@@ -39,7 +39,7 @@
 |Грокаем алгоритмы|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Algo|
 |Ловушка для багов. Полевое руководство по веб хакингу|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Hack|
 |DeFi and the Future of Finance|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Crypto
-|
+|Лекции по математике. Босс. Вероятность Информация Статистика |[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Math|
 
 to be continued...
 
