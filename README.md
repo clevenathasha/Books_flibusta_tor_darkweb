@@ -38,6 +38,8 @@
 |Глубокое обучение. Погружение в мир нейронных сетей.|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|DL|
 |Грокаем алгоритмы|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Algo|
 |Ловушка для багов. Полевое руководство по веб хакингу|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Hack|
+|DeFi and the Future of Finance|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Crypto
+|
 
 to be continued...
 
@@ -69,4 +71,5 @@ Grokkin Bitcoin O'Relly pdf скачать онлайн
 Маленький принц. pdf скачать онлайн
 Хакинг IoT  pdf скачать онлайн
 Глубокое обучение Погружение в мир нейронных сетей pdf скачать онлайн
- 
+ DeFi and the Future of Finance (2020) 
+ DeFi и будущее финансов. Как технология децентрализованных финансов трансформирует банковскую систему
