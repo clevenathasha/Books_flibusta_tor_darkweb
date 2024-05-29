@@ -40,6 +40,10 @@
 |Ловушка для багов. Полевое руководство по веб хакингу|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Hack|
 |DeFi and the Future of Finance|[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Crypto
 |Лекции по математике. Босс. Вероятность Информация Статистика |[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Math|
+|Митник Искусство обмана |[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Хак. Социальная инженерия|
+|Митник Искусство быть невидимым в эпоху Big Data |[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Хак. Социальная инженерия|
+|Комбинаторика Райгородский |[Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)|Math|
+
 
 
 to be continued...
