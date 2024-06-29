@@ -28,7 +28,7 @@
 | Грокаем глубокое обучение| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  ML  |
 | Грокаем машинное обучение| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  DL  |
 | Цифровая схемотехника и архитектура компьютера| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  dev  |
-| Как изобрести всё. Создай цивилизацию с нуля| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  all  |
+| Как изобрести всё. Создай цивилизацию с нуля| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Lyr  |
 | Бонни и Клайд.| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Lyr  |
 | Манипуляции Непряхин| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  pop  |
 | К востоку от Эдема| [Ссылка](https://t.me/+yAu1e_YIh0o1MmQy)   |  Lyr  |
